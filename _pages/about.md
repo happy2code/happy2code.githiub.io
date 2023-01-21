@@ -4,26 +4,12 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## About me
+I am a programmer, who loves to write code and have been doing that professionally since September 2000.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## My Professional Experience
+Started as a development engineer in then Alcatel, now [Nokia Networks](https://www.nokia.com/networks/). I also worked for a short stint in Siemens Medical Systems, developing software for their state of art x-ray and cardiolody equipments. I also have experience in developing and testing some very cool software for Railyway track measurement, when working in [Infosys](https://www.infosys.com/), consulting for [BNSF Railway](https://www.bnsf.com/). I now work for [GenDigital] (https://www.gendigital.com/), developing the Norton Security Client for Windows. 
 
-## Features
+During this period, I have mostly worked as an individual contributor. However, I also have been a technical/people manager for about 3 years, which did not appeal to me very much. I am now a Senior Principal Software Engineer, who likes to be on the ground with other programmers and get my hands dirty.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## My principles
